@@ -1,4 +1,4 @@
-package com.example.base_spring;
+package com.basic.spring;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
